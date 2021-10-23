@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/facebook_bg_pressed"
+    tools:targetApi="lollipop">
+    <item>
+        <shape>
+            <stroke
+                android:width="0.5dp"
+                android:color="@color/black" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+</ripple>
